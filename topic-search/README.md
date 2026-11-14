@@ -37,3 +37,9 @@ Topic Search 是一个逐步引导科研选题的 Codex 技能。它从你手头
 - 小红书：**爱读书的zoey**
 - B 站（哔哩哔哩）
 - 微信视频号
+
+### 账号主页截图
+
+| 抖音 | 小红书 |
+| --- | --- |
+| ![抖音主页：爱读书的 Zoey](assets/douyin.jpg) | ![小红书主页：爱读书的 Zoey](assets/xiaohongshu.jpg) |
