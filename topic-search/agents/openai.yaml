@@ -1,0 +1,4 @@
+interface:
+  display_name: "Topic Search"
+  short_description: "从上传并解析论文开始，逐步生成文献表、寻找选题、反向查新并审查可行性"
+  default_prompt: "用 $topic-search 带我从上传论文开始，一步步找到选题并判断是否可行。"
